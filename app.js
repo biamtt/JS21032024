@@ -1,5 +1,5 @@
 let title = document.querySelector('h1');
-title.innerHTML = 'Hora do desafio';
+title.innerHTML = 'Challenge time';
 
 function consoleButtom(){
     console.log('The buttom was clicked.');
